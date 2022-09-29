@@ -6,7 +6,7 @@ const Break = () => {
   return (
     <div>
       <div className="brakTime">
-        <h5>Break time</h5>
+        <h5>break time</h5>
         <h5>{breakFromLS ? breakFromLS.breaktime : 0}</h5>
       </div>
     </div>
