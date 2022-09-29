@@ -1,30 +1,28 @@
-*{
-  margin:0;
+* {
+  margin: 0;
   padding: 0;
 }
-body{
-  font-family: 'Roboto', sans-serif;
-font-family: 'Roboto Slab', serif;
-font-family: 'Ubuntu', sans-serif;
-background-color: antiquewhite;
+body {
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Slab", serif;
+  font-family: "Ubuntu", sans-serif;
+  background-color: antiquewhite;
 }
-.container{
+.container {
   padding: 0 50px;
 }
-.webName{
-  margin-top:40px ;
+.webName {
+  margin-top: 40px;
 }
-.webName h2{
-  color:red;
+.webName h2 {
+  color:green;
 }
-.exerciseList img{
+.exerciseList img {
   max-height: 150px;
   min-height: 150px;
   padding: 10px;
- 
-
 }
-.card-title{
+.card-title {
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
@@ -38,52 +36,52 @@ background-color: antiquewhite;
   -webkit-line-clamp: 3; /* number of lines to show */
   -webkit-box-orient: vertical;
 }
-.profileCard{
+.profileCard {
   height: 100%;
-  position:sticky;
+  position: sticky;
   top: 0;
 }
-.profileCard img{
+.profileCard img {
   height: 50px;
   width: 50px;
   border-radius: 360px;
 }
-.bodyInformation{
+.bodyInformation {
   display: flex;
   justify-content: space-between;
 }
-.breakBtn{
+.breakBtn {
   display: flex;
   justify-content: space-between;
 }
-.breakBtn button{
- border:none;
- border-radius:360px;
- padding: 5px;
+.breakBtn button {
+  border: none;
+  border-radius: 360px;
+  padding: 5px;
 }
-.excerciseTime{
+.excerciseTime {
   display: flex;
   justify-content: space-between;
 }
-.brakTime{
+.brakTime {
   display: flex;
   justify-content: space-between;
 }
 
 /* Responsive section */
-@media screen and (max-width:660px) {
-  .container{
+@media screen and (max-width: 660px) {
+  .container {
     padding: 0 20px;
   }
-  .profileCard{
-    margin:0 20px;
+  .profileCard {
+    margin: 0 20px;
   }
 }
-@media screen and (min-width:661px) {
-  .container{
+@media screen and (min-width: 661px) {
+  .container {
     padding: 0 20px;
   }
-  .profileCard{
-    margin:0 20px;
+  .profileCard {
+    margin: 0 20px;
   }
 }

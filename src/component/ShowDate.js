@@ -22,7 +22,7 @@ const ShowDate = () => {
               <div className="d-flex webName">
                 <h2>
                   {" "}
-                  <i className="fas mx-2 fa-dumbbell"></i>
+                  <i class="fa-solid fa-person-walking"></i>
                 </h2>
                 <h2>Physical Exercise Club</h2>
               </div>
