@@ -1,0 +1,44 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Dumbbell Exercises ",
+    "description": "Stand with feet shoulder-width apart and hold a heavy dumbbell by its end with both hands at chest, to start. Squat as low as you can, keeping back flat and chest up.",
+    "time": "30",
+    "img": "https://www.mensjournal.com/wp-content/uploads/2020/05/DB_Main.jpg?w=900&quality=86&strip=all"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6xy1",
+    "name": "The Right Way to Do a Push-Up",
+    "description": "You perform a proper pushup by raising and lowering your body up and down using your arms.",
+    "time": "10",
+    "img": "https://fitwirr.com/wp-content/uploads/2021/11/the-perfect-push-up.jpg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6mna34",
+    "name": "Jumping jacks exercise",
+    "description": "While you may not have thought about jumping jacks since grade school, the health benefits of this simple move continue well into adulthood.",
+    "time": "15",
+    "img": "https://www.researchgate.net/publication/341734848/figure/fig1/AS:896516470362114@1590757591713/Sample-of-Jumping-Jacks-Exercise-4.png"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-jfjd93383a",
+    "name": "Jump Rope Exercises",
+    "description": " Start in the same basic position with your feet together, knees and hips slightly bent, and the jump rope behind your feet. ",
+    "time": "35",
+    "img": "https://www.sheknows.com/wp-content/uploads/2018/08/hg7d8g9ywkg7e3m0xrrb.jpeg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-nviuef34",
+    "name": "Stationary Bike Workout",
+    "description": "Obsessed with group cycling and spin classes? You're in good company.with group cycling and spin classes?  ",
+    "time": "45",
+    "img": "https://www.shape.com/thmb/3ruExC8U8Q2RiT0iVj6xvw7ongQ=/2000x1053/filters:fill(auto,1)/spinning-fb-2000-0360ca8272ca47d7baada8af8e5616bb.jpg"
+  },
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-nv74gg636",
+    "name": "Jump Squats",
+    "description": "When it comes to training legs, we all know that weighted free squats are the king of all exercises.",
+    "time": "25",
+    "img": "https://img.mensxp.com/media/content/2017/Mar/what-are-jump-squats-and-how-to-do-them980-1488872448.jpg"
+  }
+]

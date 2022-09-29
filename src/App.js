@@ -1,9 +1,12 @@
 import "./App.css";
+import Question from "./component/Question";
+import ShowDate from "./component/ShowDate";
 
 function App() {
   return (
-    <div className="App">
-      <h1>this is demo.</h1>
+    <div>
+      <ShowDate></ShowDate>
+      <Question></Question>
     </div>
   );
 }
