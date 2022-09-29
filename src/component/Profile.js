@@ -65,7 +65,7 @@ const Profile = ({ time }) => {
         </div>
       </div>
       <div className="exerciseDetails mt-3">
-        <h5 className="mx-2">Excercise Details</h5>
+        <h5 className="mx-2">Excercise in Details</h5>
         <div className="card bg-info p-3 m-2">
           <div className="excerciseTime">
             <h5>Excercise time</h5>
