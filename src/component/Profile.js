@@ -17,17 +17,17 @@ const Profile = ({ time }) => {
 
   const notify = () => toast("Wow!Your work is done.");
   return (
-    <div className="bg-secendary text-white profileCard">
+    <div className="bg-secondary text-white profileCard">
       <div className="d-flex p-3">
         <div className="profileImg ">
           <img
             className="img-fluid mx-2"
-            src="https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2F83afb31c-38fc-11e9-9988-28303f70fcff?fit=scale-down&source=next&width=700"
+            src="https://media.istockphoto.com/photos/male-business-professional-picture-id183582611?k=20&m=183582611&s=612x612&w=0&h=udibgF5Q_VLGEZ29dnti-F5Gr6ccu8BBVscs5HGc4Cs="
             alt=""
           />
         </div>
         <div className="profileName">
-          <h6>Md.Jahid Hossen</h6>
+          <h6>Md.Hannan.Khan </h6>
           <i className="fas mx-1 fa-map-marker-alt"></i>
           <small>Dhaka,Bangladesh</small>
         </div>
@@ -36,17 +36,17 @@ const Profile = ({ time }) => {
         <div className="bodyInformation">
           <div className="weight">
             <h5>
-              75 <small>Kg</small>
+              70 <small>Kg</small>
             </h5>
             <h6>Weight</h6>
           </div>
           <div className="height">
-            <h5>6.3</h5>
+            <h5>6</h5>
             <h6>Height</h6>
           </div>
           <div className="age">
             <h5>
-              25 <small>Yr</small>
+              23 <small>Yr</small>
             </h5>
             <h6>Age</h6>
           </div>
