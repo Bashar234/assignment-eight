@@ -17,7 +17,7 @@ const Exercise = ({ item, HandleTime }) => {
             onClick={() => HandleTime(item.time)}
             className="btn btn-primary form-control"
           >
-            Add to list
+            add to list
           </a>
         </div>
       </div>

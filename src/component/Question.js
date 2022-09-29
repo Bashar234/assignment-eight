@@ -85,7 +85,7 @@ const Question = () => {
             <div className="accordion-body">
               <strong> 1.Add document title:</strong>
               Here, we can set the document title by using the useEffect hook.
-              This hook executes at the initial stage when the component is
+              This hook executes at the primary stage when the component is
               mounted and also when the components state changes or the
               component re-renders. <br />
               <strong> 2.Cleanup function in useEffect:</strong>
